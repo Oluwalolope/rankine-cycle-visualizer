@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+coolprop
+plotly
+pandas
+gunicorn
