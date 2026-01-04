@@ -164,13 +164,7 @@ pip install -r requirements.txt
 
 ## ▶️ How to Run the Project
 
-### Step 1: Navigate to project folder
-
-```bash
-cd rankine_fastapi_assignment
-```
-
-### Step 2: Run the FastAPI server
+### Step 1: Run the FastAPI server
 
 ```bash
 uvicorn main:app --reload
@@ -182,7 +176,7 @@ If your file is inside a folder (e.g. `app/main.py`), use:
 uvicorn app.main:app --reload
 ```
 
-### Step 3: Open the browser
+### Step 2: Open the browser
 
 Go to:
 
