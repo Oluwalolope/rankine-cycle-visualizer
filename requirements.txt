@@ -4,3 +4,4 @@ coolprop
 plotly
 pandas
 gunicorn
+jinja2
